@@ -67,8 +67,10 @@ public class SinhVien {
         hoTen=sc.nextLine();
         System.out.println("\nDia Chi");
         diaChi=sc.nextLine();
+        do {
         System.out.println("\nSDT 9 so");
         SDT=sc.nextLine();
+        } while (getSDT().length() != 9);
 
 
     }
