@@ -1,0 +1,67 @@
+package bai1th2;
+public class Account {
+    private ;
+    public ()
+    {
+
+    }
+    public ()
+    {
+        this.= ;
+        this. = ;
+        this. = ;
+        this. = ;
+    }
+    public  get() { 
+        return ; 
+    } 
+     
+    public void set(  ) 
+    { 
+        this. = ; 
+    }
+    public  get() { 
+        return ; 
+    } 
+ 
+    public void set() 
+    { 
+        this. = ; 
+    } 
+     
+    public  get() { 
+        return ; 
+    } 
+ 
+    public void set() 
+    { 
+        this. = ; 
+    } 
+    public  get() { 
+        return ; 
+    } 
+ 
+    public void set() 
+    { 
+        this.= ; 
+    }
+    
+    public void nhap()
+    {
+        Scanner sc= new Scanner(System.in);
+        System.out.println("");
+        =sc.next();
+        System.out.println("");
+        =sc.next();
+        System.out.println("");
+        =sc.next();
+        System.out.println("");
+        =sc.next();
+
+    }
+    public void hien()
+    {
+        System.out.println("\n:"+get()+"\n:"+ get()+"\n:"+ get()+"\n:"+ get());
+    }
+}
+}
